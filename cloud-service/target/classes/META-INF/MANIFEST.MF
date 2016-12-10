@@ -1,8 +1,8 @@
 Manifest-Version: 1.0
-Implementation-Title: cloud-simple-helloword
-Implementation-Version: 0.0.1
+Implementation-Title: cloud-service
+Implementation-Version: 1.0.0
 Built-By: Administrator
-Implementation-Vendor-Id: spring.boot
+Implementation-Vendor-Id: cloud
 Build-Jdk: 1.8.0_51
 Created-By: Maven Integration for Eclipse
 Implementation-Vendor: Pivotal Software, Inc.
